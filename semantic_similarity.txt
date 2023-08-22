@@ -1,1 +1,3 @@
 https://github.com/mairaverona/semantic-task.git
+
+https://github.com/mairaverona/watch-next.git
