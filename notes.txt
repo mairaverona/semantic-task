@@ -1,0 +1,19 @@
+cat monkey 0.5929930210113525
+cat banana 0.2235882580280304
+monkey cat 0.5929930210113525
+monkey banana 0.4041501581668854
+banana cat 0.2235882580280304
+banana monkey 0.4041501581668854
+
+Similarities: From these observations, "cat" and "monkey" are more similar to each other than either of them is to "banana." 
+It's common understanding that cats and monkeys are both animals, 
+while a banana is a fruit, making "cat" and "monkey" conceptually closer to each other.
+
+Other example - using words of my choice (mywords.py)
+From the observations, there's a moderate similarity between "pizza" and "tomato," due to both being foods.
+"person" and "pizza" are seen as relatively similar possibly due to people eating pizza and the same happens with tomato and person.
+
+Similarities between ‘en_core_web_sm’ and ‘en_core_web_md’
+I haven't noticed a difference between the two models answers after running the code.
+Maybe that is due to the sentences being too simple for both models to handle effectively, leading to similar results?
+
